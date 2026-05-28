@@ -1,5 +1,26 @@
 # @graphql-hive/gateway
 
+## 2.8.0
+### Minor Changes
+
+
+
+- [#2361](https://github.com/graphql-hive/gateway/pull/2361) [`72dfa84`](https://github.com/graphql-hive/gateway/commit/72dfa840ebaaabfad277c6562f86b219dc825ba1) Thanks [@ardatan](https://github.com/ardatan)! - Update Docker image to Node 26
+
+
+### Patch Changes
+
+
+
+- [#2373](https://github.com/graphql-hive/gateway/pull/2373) [`3f40d06`](https://github.com/graphql-hive/gateway/commit/3f40d066f03e516d552a70ab0c9c472206612fe3) Thanks [@mskorokhodov](https://github.com/mskorokhodov)! - dependencies updates:
+  
+  - Updated dependency [`@graphql-hive/render-laboratory@^0.1.8` ↗︎](https://www.npmjs.com/package/@graphql-hive/render-laboratory/v/0.1.8) (from `^0.1.6`, in `dependencies`)
+
+
+- [#2373](https://github.com/graphql-hive/gateway/pull/2373) [`3f40d06`](https://github.com/graphql-hive/gateway/commit/3f40d066f03e516d552a70ab0c9c472206612fe3) Thanks [@mskorokhodov](https://github.com/mskorokhodov)! - Hive laboratory now supports introspection headers configuration using settings
+  
+  https://the-guild.dev/graphql/hive/docs/new-laboratory/schema-support#introspection-headers
+
 ## 2.7.2
 ### Patch Changes
 
